@@ -9,6 +9,10 @@ body {
   background-color: #000;
 }
 
+img{
+	max-width:90%;
+}
+
 
 body{
 margin:0;
